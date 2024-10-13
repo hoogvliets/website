@@ -1,4 +1,4 @@
-baseURL: "https://hoogvliets.github.io/website" 
+baseURL: "https://hoogvliets.github.io/" 
 title: Raphael Hoogvliets
 paginate: 20
 theme: PaperMod
